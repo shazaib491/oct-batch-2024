@@ -1,6 +1,34 @@
 {
-    "blogs": [
-      { "id": "1", "title": "a title", "body": "this is for testing purpose" },
-      { "id": "2", "title": "another title", "body": "this is for testing purpose"}
-    ]
-  }
+  "user": [
+    {
+      "id": "1",
+      "name": "Amaan Khan marathi",
+      "email": "khan@example.com"
+    },
+    {
+      "id": "0931",
+      "name": "shahzaib",
+      "email": "sdf"
+    },
+    {
+      "id": "f2e8",
+      "name": "fs",
+      "email": "sdf"
+    },
+    {
+      "id": "8712",
+      "name": "fsdsd",
+      "email": "fsdfsdf"
+    },
+    {
+      "id": "0b81",
+      "name": "Baba Atif bangali",
+      "email": "hno ghanu gao "
+    },
+    {
+      "id": "4b55",
+      "name": "Amaan Khan",
+      "email": "khan@example.com"
+    }
+  ]
+}
